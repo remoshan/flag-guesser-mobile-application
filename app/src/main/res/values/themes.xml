@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Base theme -->
+    <style name="Theme.FlagGuesser" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryDark">#1976D2</item>
+        <item name="colorSecondary">#4CAF50</item>
+        <item name="android:windowBackground">#FAFAFA</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <!-- Toolbar style -->
+    <style name="ToolbarStyle" parent="Widget.MaterialComponents.Toolbar.Primary">
+        <item name="titleTextColor">#FFFFFF</item>
+        <item name="subtitleTextColor">#FFFFFF</item>
+    </style>
+
+    <!-- Button style -->
+    <style name="GameButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="backgroundTint">#2196F3</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+
+</resources>
