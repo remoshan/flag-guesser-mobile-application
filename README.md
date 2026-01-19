@@ -30,6 +30,13 @@ Flag Guesser is an interactive Android quiz app designed to test your knowledge 
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
+## Contact
+
+Created by **Remoshan**  
+- Email: [remoshanfrancis123@outlook.com](mailto:remoshanfrancis123@outlook.com)  
+- GitHub: [github.com/remoshan](https://github.com/remoshan)  
+- LinkedIn: [linkedin.com/in/francis-remoshan](https://www.linkedin.com/in/francis-remoshan)
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
