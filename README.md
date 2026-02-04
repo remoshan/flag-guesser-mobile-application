@@ -7,11 +7,9 @@
 
 ### Visuals
 
-_Add a hero image or main screenshot here:_
-
-```markdown
-![Flag Guesser App Screenshot](./docs/images/hero.png)
-```
+![Home Screen](https://github.com/user-attachments/assets/2a2dc120-97d6-4bfb-b849-045af162ac7e)
+![Game Screen](https://github.com/user-attachments/assets/8b8b672e-c7dc-40b9-a4cc-18c3f5431619)
+![Score Screen](https://github.com/user-attachments/assets/27e9a039-bab5-4487-8d2c-fec94fbff377)
 
 ---
 
