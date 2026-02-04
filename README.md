@@ -39,7 +39,7 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/flag-guesser-mobile-application.git
+git clone https://github.com/remoshan/flag-guesser-mobile-application.git
 cd flag-guesser-mobile-application
 ```
 
